@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">InternalStorage</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="File">檔案</string>
+    <string name="FilePath">檔案路徑</string>
+    <string name="Save">儲存</string>
+    <string name="Appen">附加</string>
+    <string name="Load">讀取</string>
+    <string name="FileName">檔案名稱</string>
+    <string name="SaveFile">儲存檔案?</string>
+    <string name="Ok">確定</string>
+    <string name="Cancel">取消</string>
+    <string name="CancelFile">取消儲存檔案</string>
+</resources>
